@@ -23,6 +23,11 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 - Utilização do gradiente no background.
 - Atuar de forma colaborativa utilizando o conceito de Pair Programming.
 
+## Interface
+
+Você pode conferir o design da interface no [link do Figma](https://www.figma.com/community/file/994715668716699770/hbo-max-clone) para ter uma visão detalhada de como o projeto se parece.
+
+
 ## Preview
 
 ![hbo](https://github.com/f5-nascimento/Clone-HBOmax/assets/28812188/79c6ed9e-e48b-41da-8c18-33417bfff338)
